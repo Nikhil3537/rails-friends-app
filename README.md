@@ -1,24 +1,36 @@
-# README
+# 👥 Friends App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A simple **Ruby on Rails application** for managing a list of friends and their details.
 
-Things you may want to cover:
+## ✨ Features
 
-* Ruby version
+* Add friends
+* View friends list
+* Edit friend details
+* Delete friends
+* Simple CRUD application
 
-* System dependencies
+## 🛠️ Tech Stack
 
-* Configuration
+* Ruby
+* Ruby on Rails
+* HTML/CSS
+* SQLite
 
-* Database creation
+## 🚀 Run Locally
 
-* Database initialization
+```bash
+git clone https://github.com/YOUR_USERNAME/friends-app.git
+cd friends-app
+bundle install
+rails db:migrate
+rails server
+```
 
-* How to run the test suite
+Open **http://localhost:3000** in your browser.
 
-* Services (job queues, cache servers, search engines, etc.)
+## 👨‍💻 Developer
 
-* Deployment instructions
+**Nikhil N S**
 
-* ...
+GitHub: https://github.com/Nikhil3537
